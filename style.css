@@ -1,0 +1,18 @@
+/* External CSS */
+
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h3 {
+    color: blue;
+    text-align: center;
+}
+
+.external-para {
+    color: brown;
+    font-size: 18px;
+    text-align: justify;
+}
